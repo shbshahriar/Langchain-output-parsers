@@ -72,10 +72,6 @@ Langchain-output-parsers/
    - File: `stroutputparser_chain.py`
    - Generates detailed reports and concise summaries using chained prompts.
 
-## Notes
-
-- The `load_model_example.py` and `model_download_code.py` files are not included in this README as they are not part of the core functionality and will be removed.
-- Ensure that the Hugging Face cache directory (`HF_HOME`) is correctly set in the scripts.
 
 ## License
 
